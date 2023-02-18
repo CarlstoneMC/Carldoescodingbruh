@@ -14,11 +14,15 @@ made to remove the bloat put into phones by OEMs and give the simple pixel-like
 experience they deserve.
 
 I'm also working on a Windows bases operating system called Snap OS (Not to be confused with Canonical's Snap for Linux)
-I am trying to make Snap OS run on systems with as low as 512MB of ram and 0.3GHz processor clock speed. I will also provide
-different layout options like Mac, Windows, Linux, etc. to make the user comfortable no matter which OS they came from. I will
-also make another version of Snap OS named Snap OS Crystal Edition, this is a special version of Snap OS made for the people with
-high end computers that have to comprimise with features/appearance just because Windows has normalised 1 OS for everyone.
-Snap OS Crystal Edition will provide a beautiful appearance and tons of amazing features and customizations.
+Snap OS based on Windows 10/11 can run on systems with low end specs and provide more features. There are 3 versions of Snap OS,
+Snap OS for mid-range/lower mid-range PC's based on Windows 11 providing amazing performance with astonishing new features.
+Snap OS LITE for low-end/entry-level based on Windows 10 providing snappy performance even on the lowest of specs and finally
+Snap OS BAREBONE which comes in Windows 7/7X/10/10L/11 editions and is mainly designed for organization/server use as no extra
+features are provided and only performance improvements and Snap OS toolkit remain. All versions can be downloaded from
+bit.ly/getsnapos for Snap OS
+bit.ly/getsnaplite for Snap OS LITE
+bit.ly/getsnapbarebore for Snap OS BAREBONE and finally
+bit.ly/aboutsnapos for more info on all versions of Snap OS
 
 <!---
 Carldoescodingbruh/Carldoescodingbruh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
