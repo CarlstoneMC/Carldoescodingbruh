@@ -1,0 +1,15 @@
+Sources -
+
+Windows Shortcuts -
+1. System Restore Point - "C:\Windows\System32\control.exe"
+2. Installed Programs (Control Panel) - "C:\Windows\System32\appwiz.cpl"
+3. Game Mode - "ms-settings:gaming-gamemode"
+4. Windows Update - "ms-settings:windowsupdate"
+5. Installed Programs - "ms-settings:appsfeatures"
+6. Startup Apps - "ms-settings:startupapps"
+
+Programs -
+1. Visual C++ Runtimes - "https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/"
+2. C++ Installer - "https://www.softpedia.com/get/Others/Signatures-Updates/Visual-C-Runtime-Installer.shtml"
+3. dxwebsetup - "https://www.microsoft.com/en-in/download/details.aspx?id=35"
+4. NET Framework 4.8 - "https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48"
